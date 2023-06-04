@@ -22,6 +22,19 @@
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
 
+<div id="socials" align="center">
+    <a href="linkedin-url">
+    <img src="/icons8-education-100.png" alt="LinkedIn"/>
+  </a>
+       <a href="linkedin-url">
+    <img src=".icons8-education-100.png" alt="LinkedIn"/>
+  </a>
+       <a href="linkedin-url">
+    <img src="./icons8-education-100.png" alt="LinkedIn"/>
+  </a>
+ 
+</div>
+
 ---
 
 ### Languages and tools
