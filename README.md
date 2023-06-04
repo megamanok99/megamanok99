@@ -22,23 +22,31 @@
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
 
-<table align="center">
+<table align="center" >
 <td>
-    <div id="socials" >
-        <img src="./1.png" alt="education"/>
-        <div>МГТУ баумана</dv>
+    <div >
+        <div style="display:table-cell; vertical-align:middle; text-align:center">
+            <img src="./1.png" alt="education"  align="center"/>
+        </div>
+        <div align="center" >Бакалавриат</dv>
+        <div align="center" >МГТУ им. Баумана</dv>
+        <div align="center" >2015-2019</dv>
+    </div>
+</td>
+<td>
+    <div >
+        <div align="center"> <img src="./1.png" alt="education"  /></div>
+        <div align="center" >Магистратура</dv>
+        <div align="center" >РТУ МИРЭА</dv>
+        <div align="center" >2019-2021</dv>
     </div>
 </td>
 <td>
     <div id="socials" >
-        <img src="./1.png" alt="education"/>
-        <div>МГТУ баумана</dv>
-    </div>
-</td>
-<td>
-    <div id="socials" >
-        <img src="./1.png" alt="education"/>
-        <div>МГТУ баумана</dv>
+        <img src="./1.png" alt="education"  align="center"/>
+         <div align="center" >Аспирантура</dv>
+        <div align="center" >МФЮА</dv>
+        <div align="center" >2021-2025</dv>
     </div>
 </td>
 </table>
