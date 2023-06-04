@@ -22,34 +22,26 @@
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
 
-<table align="center" border="0">
-<td><div id="socials" >
-<img src="./1.png" alt="education"/>
-<div>МГТУ баумана</dv>
-</div></td>
-<td><div id="socials" >
-<img src="./1.png" alt="education"/>
-<div>МГТУ баумана</dv>
-</div></td>
+<table align="center">
+<td>
+    <div id="socials" >
+        <img src="./1.png" alt="education"/>
+        <div>МГТУ баумана</dv>
+    </div>
+</td>
+<td>
+    <div id="socials" >
+        <img src="./1.png" alt="education"/>
+        <div>МГТУ баумана</dv>
+    </div>
+</td>
+<td>
+    <div id="socials" >
+        <img src="./1.png" alt="education"/>
+        <div>МГТУ баумана</dv>
+    </div>
+</td>
 </table>
-<div id="socials"  align="center" >
-  
-    
-<div id="socials" >
-<img src="./1.png" alt="education"/>
-<div>МГТУ баумана</dv>
-</div>
-<div id="socials" >
-<img src="./1.png" alt="education"/>
-<div>МГТУ баумана</dv>
-</div>
-<div id="socials" >
-<img src="./1.png" alt="education"/>
-<div>МГТУ баумана</dv>
-</div>
-    
- 
-</div>
 
 ---
 
