@@ -11,9 +11,9 @@
 <table align="center" >
 <td>
     <div>
-       <p align="center">
+<!--        <p align="center">
             <img src="./1.png" alt="education"/>
-        </p>
+        </p> -->
         <div align="center" >Бакалавриат</dv>
         <div align="center" >МГТУ им. Баумана</dv>
         <div align="center" >2015-2019</dv>
@@ -21,9 +21,9 @@
 </td>
 <td>
     <div>
-        <p align="center">
+<!--         <p align="center">
             <img src="./1.png" alt="education"  />
-        </p>
+        </p> -->
         <div align="center" >Магистратура</dv>
         <div align="center" >РТУ МИРЭА</dv>
         <div align="center" >2019-2021</dv>
@@ -31,9 +31,9 @@
 </td>
 <td>
     <div>
-        <p align="center">
+<!--         <p align="center">
             <img src="./1.png" alt="education"/>
-        </p>
+        </p> -->
          <div align="center" >Аспирантура</dv>
         <div align="center" >МФЮА</dv>
         <div align="center" >2021-2025</dv>
